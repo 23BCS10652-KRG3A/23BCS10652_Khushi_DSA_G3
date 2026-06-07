@@ -2,9 +2,6 @@
 using namespace std;
 
 int main(){
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
-
     const int a=1000000;
     vector<long long>b(a+1);
     vector<int>c(a+1);
